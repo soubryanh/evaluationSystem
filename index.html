@@ -8,7 +8,41 @@
     <title>Evaluation System</title>
   </head>
   <body>
-    <h1>Are you ready for this challenge?</h1>
+    <header>
+      <h1>Are you ready for this challenge?</h1>
+    </header>
+    <main class="quiz-container" id="quiz">
+      <section class="quiz-header">
+        <h2 id="question">Question Text</h2>
+        <ul>
+          <li>
+            <input type="radio" name="answer" id="a" class="answer" />
+            <label for="a" id="a_text">Answer</label>
+          </li>
+
+          <li>
+            <input type="radio" name="answer" id="b" class="answer" />
+            <label for="b" id="b_text">Answer</label>
+          </li>
+
+          <li>
+            <input type="radio" name="answer" id="c" class="answer" />
+            <label for="c" id="c_text">Answer</label>
+          </li>
+
+          <li>
+            <input type="radio" name="answer" id="d" class="answer" />
+            <label for="d" id="d_text">Answer</label>
+          </li>
+        </ul>
+      </section>
+
+      <button id="submit">Submit</button>
+    </main>
+
+    <footer>
+      <p>Made with 💚 by @bryanhernandz102</p>
+    </footer>
 
     <script src="./assets/js/index.js"></script>
   </body>
