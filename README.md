@@ -4,7 +4,8 @@ We will create a multiple choice quiz, with 4 options per question, 3 wrongs and
 ## Results 
 [Platzi Game](https://evaluationsystem.hostman.site)
 -
-![platzigame](https://user-images.githubusercontent.com/79067633/137973257-372050b1-3697-4d6d-b5f4-f88751446ed2.png)
+![PlatziGame](https://user-images.githubusercontent.com/79067633/138527226-b3aa3e7c-f7f4-4384-9b2e-204a58c616f8.png)
+
 
 ### Clone repository
 1. Click on the desired repository. 
